@@ -1,12 +1,20 @@
 # DIO-Azure
 Compilado de conceitos aprendidos no BootCamp
 
-No BootCamp foram ensinados conceitos introdutórios de Cloud Computing (computação em nuvem), abordando os principais modelos e arquiteturas utilizadas atualmente. Modelos de dados:
+No BootCamp foram ensinados conceitos introdutórios de Cloud Computing (computação em nuvem), abordando os principais modelos e arquiteturas utilizadas atualmente. Como modelos de dados:
 
   Data Lake: um repositório centralizado que permite armazenar dados estruturados e não estruturados em larga escala, servindo como base para análises avançadas e machine learning.
 
   Data Warehouse: um sistema de armazenamento de dados estruturados, otimizado para consultas e geração de relatórios analíticos, com foco em suporte à tomada de decisões empresariais.
 
+Diferenças nos tipos de nuvem:
+
+  Nuvem Pública: É uma infraestrutura de nuvem oferecida e compartilhada entre vários usuários.
+  
+  Nuvem Híbrida: Combinação de nuvem pública e privada, permitindo que dados e aplicações possam estar entre a parte privada ou pública conforme a necessidade.
+
+  Nuvem Privada: Infraestrutura de nuvem dedicada exclusivamente a uma única organização.
+  
 Diferenças dos serviços de nuvem:
 
   IaaS (Infrastructure as a Service): modelo de serviço em nuvem que oferece recursos de infraestrutura, como servidores, armazenamento e redes, sob demanda.
